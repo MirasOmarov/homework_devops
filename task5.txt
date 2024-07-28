@@ -1,0 +1,9 @@
+text
+ALlslsosoososolll \n LALKSKKKKooopopop \n KKspifspfispfsddd
+ALlslsosoososolll LALKSKKKKooopopop KKspifspfispfsddd
+Hello/nWorld/nLorem/nIpsum/nVerb
+HelloWorldLoremIpsumVerb
+Hello  World  Lorem  Ipsum  Verb
+Hello\nWorld
+Hello World
+Lorem Ipsum Verb
